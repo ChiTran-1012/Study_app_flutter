@@ -1,0 +1,21 @@
+[
+    {
+        "id": "1",
+        "question": "The carbondioxide ___ harm to human health.",
+        "options": ["cause", "do", "lead", "trigger"],
+        "answer": "do"
+    },
+    {
+        "id": "2",
+        "question": "She should do more exercise to ____ weight.",
+        "options": ["lose", "win", "gain", "put on"],
+        "answer": "lose"
+    },
+    {
+        "id": "3",
+        "question": "This is the ___ thing I can do for you.",
+        "options": ["only", "single", "sole", "lone"],
+        "answer": "only"
+    }
+
+]
